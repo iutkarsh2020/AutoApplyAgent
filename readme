@@ -1,0 +1,4 @@
+Dependencies:
+brew install cliclick - to get current cursor position
+
+GET CURRENT CURSOR POSITION: cliclick p
