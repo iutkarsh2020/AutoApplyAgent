@@ -2,3 +2,11 @@ Dependencies:
 brew install cliclick - to get current cursor position
 
 GET CURRENT CURSOR POSITION: cliclick p
+
+CHECK EXISTING ENVTS: conda env list
+
+CREATE NEW ENVT: conda create --name AutoApplyAgent python=3.9
+
+ACTIVATE CURRENT ENVT: conda activate AutoApplyAgent
+
+Run FastApi application: uvicorn main:app --reload
